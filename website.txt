@@ -1,0 +1,5 @@
+Back-End:
+https://react-medical-pager-chat-app-server.vercel.app
+
+Front-End:
+https://react-medical-pager-chat-app.vercel.app

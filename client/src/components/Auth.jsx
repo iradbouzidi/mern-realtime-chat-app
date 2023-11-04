@@ -26,11 +26,9 @@ const Auth = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
 
-    console.log(form);
+    const { username, password, phoneNumber, avatarURL } = form;
 
-    /*const { username, password, phoneNumber, avatarURL } = form;
-
-    const URL = "https://localhost:5000/auth";
+    const URL = "http://localhost:5000/auth";
     // const URL = 'https://medical-pager.herokuapp.com/auth';
 
     const {
@@ -54,7 +52,7 @@ const Auth = () => {
       cookies.set("hashedPassword", hashedPassword);
     }
 
-    window.location.reload();*/
+    window.location.reload();
   };
 
   const switchMode = () => {

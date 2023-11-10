@@ -1,5 +1,5 @@
 Back-End:
-https://react-medical-pager-chat-app-server.vercel.app
+https://mern-realtime-chat-app-server.vercel.app
 
 Front-End:
-https://react-medical-pager-chat-app.vercel.app
+https://mern-realtime-chat-app.vercel.app
